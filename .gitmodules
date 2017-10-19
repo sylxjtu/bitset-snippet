@@ -2,3 +2,8 @@
 	path = luffbee
 	url = https://github.com/Luffbee/ACM.git
 	branch = master
+[submodule "Drenchding"]
+	path = Drenchding
+	url = https://github.com/drenchding/ACM-templates.git
+	branch = master
+
